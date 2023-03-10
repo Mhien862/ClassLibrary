@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\admin\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\hty\Downloads\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
